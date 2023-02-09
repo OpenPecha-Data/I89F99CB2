@@ -1,0 +1,16 @@
+id: I89F99CB2
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:42:11.658479
+last_modified: 2023-02-09 14:42:11.658585
+source_metadata:
+  title: 'BA: Gaṇḍavyūhasūtra'
+  language: sa
+bases:
+  B9EE:
+    base_file: B9EE.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
